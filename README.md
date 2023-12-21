@@ -1,3 +1,3 @@
-Git repo for examples and exercies from "How to Design Programs, Second Edition."
+Git repo for examples and exercises from "How to Design Programs, Second Edition."
 
 https://htdp.org/
